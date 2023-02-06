@@ -9,10 +9,7 @@
 </head>
 <body>
 <nav>
- <!-- <h1> Portfolio Test 1</h1> -->
- <!-- <h1> Portfolio Test 1</h1> -->
- <!-- <h1> Portfolio Test 1</h1> -->
- <!-- <h1> Portfolio Test 1</h1> -->
+
   <a class="myname" href="SaculoJoshua.php">Joshua Saculo</a>
   <ul>
 
@@ -20,7 +17,30 @@
     <li><a href="#projects">Projects</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
-
+<div id="nav-icon1">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+<div id="nav-icon2">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+<div id="nav-icon3">
+  <span></span>
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+<div id="nav-icon4">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
 
 </nav>
 
